@@ -1,0 +1,5 @@
+tabName,tabIcon,tabID,dataSourceName,title,stringTableName,
+TAB 0,,TAB0,Tab0DataSrc,TAB 0 SETTINGS,tab_0
+TAB 1,,TAB1,Tab1DataSrc,TAB 1 SETTINGS,tab_1
+TAB 2,,TAB2,Tab2DataSrc,TAB 2 SETTINGS,tab_2
+TAB 3,,TAB3,Tab3DataSrc,TAB 3 SETTINGS,tab_3
